@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAH8BpaCbGRHSLvJxgw5fUCI4GUROn8clG6PDsslNDoKJurI6d9e2ATiVqyB864knATGYYWe2e9XKikLHZkBnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PapaIO\\source\\repos\\Practico_4\\practico4y5\\practico4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PapaIO\\.nuget\\packages\\winforms.datavisualization\\1.8.0\\winforms.datavisualization.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
