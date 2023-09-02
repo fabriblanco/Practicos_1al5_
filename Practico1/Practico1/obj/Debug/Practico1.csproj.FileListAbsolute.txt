@@ -1,0 +1,10 @@
+C:\Users\PapaIO\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.AssemblyReference.cache
+C:\Users\PapaIO\source\repos\Practico1\Practico1\obj\Debug\Practico1.Form1.resources
+C:\Users\PapaIO\source\repos\Practico1\Practico1\obj\Debug\Practico1.Properties.Resources.resources
+C:\Users\PapaIO\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.GenerateResource.cache
+C:\Users\PapaIO\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\PapaIO\source\repos\Practico1\Practico1\bin\Debug\Practico1.exe.config
+C:\Users\PapaIO\source\repos\Practico1\Practico1\bin\Debug\Practico1.exe
+C:\Users\PapaIO\source\repos\Practico1\Practico1\bin\Debug\Practico1.pdb
+C:\Users\PapaIO\source\repos\Practico1\Practico1\obj\Debug\Practico1.exe
+C:\Users\PapaIO\source\repos\Practico1\Practico1\obj\Debug\Practico1.pdb
